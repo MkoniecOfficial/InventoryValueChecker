@@ -21,7 +21,6 @@ class MainActivity : AppCompatActivity() {
 
 
 
-
         if (submit != null && etSteamID != null) {
             submit.setOnClickListener {
 
